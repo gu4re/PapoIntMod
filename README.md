@@ -1,5 +1,5 @@
 # PapoIntMod v0.0.1 <img src="https://imgur.com/SUAiX7s.png" alt="terminal-icon" width="95" height="95" align="left"/>
-#### *Development of PapoInt Mod v1.19.3*
+#### *Development of PapoInt Minecraft Mod v1.19.3*
 
 ## DOWNLOAD <img src="https://cdn1.iconfinder.com/data/icons/vibrancie-arrow/30/arrow_027-down-bottom-download-direction-512.png" alt="git-icon" width="40" height="40" align="left"/>
 
