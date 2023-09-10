@@ -18,7 +18,7 @@ git clone https://github.com/gu4re/PapoIntMod.git "your-folder-destination"
 
 <div>
   <img src="https://imgur.com/nJ9f5Xl.png" align="center" alt="items-placed" width="280" height="230"/>
-  <img src="https://imgur.com/VeMMbU1.png" align="center" alt="innkeeper-table" width="207" height="87"/>
+  <img src="https://imgur.com/VeMMbU1.png" align="center" alt="innkeeper-table" width="227" height="107"/>
   <img src="https://imgur.com/gnJtBy8.png" align="center" alt="backStone-item" width="280" height="230"/>
 </div>
 
