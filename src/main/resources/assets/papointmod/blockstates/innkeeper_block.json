@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "papointmod:block/innkeeper_block"
+    }
+  }
+}
